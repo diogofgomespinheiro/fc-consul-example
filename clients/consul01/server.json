@@ -1,0 +1,8 @@
+{
+	"server": false,
+	"bind_addr": "172.18.0.6",
+	"data_dir": "/tmp",
+	"node_name": "consul_client01",
+	"retry_join": ["172.18.0.2", "172.18.0.3", "172.18.0.4"],
+	"encrypt": "CK/ZAsxulf/5lAQcbgnOZfWr/V6hg5FBlRRTfjrvRBQ="
+}
